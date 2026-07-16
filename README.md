@@ -65,15 +65,22 @@ iris-flower-prediction/
 ├── model.py
 ├── model.pkl
 ├── iris.csv
+├── .gitignore
 ├── README.md
+│
+├── static/
+│   ├── smallflower.png
+│   ├── irissetosa.png
+│   ├── irisversicolor.png
+│   └── irisvirginica.png
 │
 ├── templates/
 │   └── index.html
 │
-└── static/
-    ├── irissetosa.png
-    ├── irisversicolor.png
-    └── irisvirginica.png
+└── images/
+    ├── output1.png
+    ├── output2.png
+    └── output3.png
 ```
 
 ---
@@ -143,7 +150,7 @@ The application displays:
 
 BCA (Data Science)
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/tsuryaswaroopa
 
 ---
 
