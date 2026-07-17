@@ -133,6 +133,14 @@ Enter the following values:
 Click **Predict** to view the flower species.
 
 ---
+## 💻 Output
+
+<img width="1800" height="1000" alt="output1" src="https://github.com/user-attachments/assets/215953e9-82f8-471a-9d2d-d5b86b42bdac" />
+
+<img width="1800" height="1000" alt="output2" src="https://github.com/user-attachments/assets/042f4983-1367-45a6-997b-96702df15a96" />
+
+<img width="1800" height="1000" alt="output3" src="https://github.com/user-attachments/assets/cf759441-0374-4ca7-b3e8-011611d5cade" />
+
 
 ## 📷 User Interface
 
